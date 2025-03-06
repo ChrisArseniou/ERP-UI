@@ -1,6 +1,6 @@
 # ERP UI
 
-User Interface for the ERP built with Angular.
+User Interface for the ERP, built with Angular.
 
 ## Apm
 
