@@ -1,0 +1,17 @@
+.nav-link {
+  font-size: large;
+}
+
+.nav-link{
+  color: black;
+}
+
+nav a:visited {
+  background-color: lightgray;
+  color: black;
+}
+
+nav a:active {
+  color: #941907;
+}
+
